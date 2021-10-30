@@ -59,7 +59,7 @@
         "socialLinks": [
             {
                 "altText": "Facebook",
-                "url": "#",
+                "url": "/",
                 "showIcon": true,
                 "icon": "facebook",
                 "style": "link",
