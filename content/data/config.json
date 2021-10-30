@@ -26,7 +26,7 @@
             },
             {
                 "type": "Link",
-                "label": "About us",
+                "label": "Contact",
                 "url": "/about",
                 "altText": ""
             }
