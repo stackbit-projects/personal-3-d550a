@@ -9,7 +9,6 @@
         "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/Sakanaya logo.svg",
             "altText": "Logo"
         },
         "primaryLinks": [
