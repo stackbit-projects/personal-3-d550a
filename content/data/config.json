@@ -2,7 +2,7 @@
     "type": "Config",
     "header": {
         "headerVariant": "variant-c",
-        "primaryColors": "colors-e",
+        "primaryColors": "colors-c",
         "secondaryColors": "colors-i",
         "backgroundWidth": "full",
         "title": "Small Business",
