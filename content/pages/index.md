@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    title: We do fishing differently.
+    title: 'Hi, I am John.'
     subtitle: Fresh. Better. Faster
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
