@@ -45,15 +45,6 @@
     "footer": {
         "colors": "colors-a",
         "backgroundWidth": "full",
-        "logo": {
-            "elementId": "",
-            "styles": {
-                "self": {
-                    "opacity": 100
-                }
-            },
-            "type": "ImageBlock"
-        },
         "title": "lorem-ipsum",
         "text": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
         "contacts": {
