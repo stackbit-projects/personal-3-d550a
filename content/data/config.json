@@ -49,7 +49,7 @@
         "text": "A description of your brand\n",
         "contacts": {
             "email": "hello@john.com",
-            "emailAltText": "lorem-ipsum",
+            "emailAltText": "hello@john.com",
             "address": "lorem-ipsum",
             "addressAltText": "lorem-ipsum",
             "elementId": "",
