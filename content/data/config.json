@@ -56,7 +56,17 @@
         },
         "copyrightText": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
         "primaryLinks": [],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "label": "lorem-ipsum",
+                "altText": "lorem-ipsum",
+                "url": "#",
+                "showIcon": false,
+                "icon": "facebook",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ],
         "legalLinks": [],
         "styles": {
             "self": {
