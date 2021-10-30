@@ -61,7 +61,7 @@
                 "label": "lorem-ipsum",
                 "altText": "lorem-ipsum",
                 "url": "#",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "facebook",
                 "style": "link",
                 "elementId": ""
