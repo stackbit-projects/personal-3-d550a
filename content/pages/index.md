@@ -15,7 +15,7 @@ sections:
       - type: Button
         label: Get Started
         url: /
-        style: primary
+        style: secondary
         elementId: hero-main-button
     styles:
       self:
