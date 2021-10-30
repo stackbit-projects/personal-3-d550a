@@ -43,7 +43,7 @@
         }
     },
     "footer": {
-        "colors": "colors-f",
+        "colors": "colors-c",
         "backgroundWidth": "full",
         "logo": {
             "type": "ImageBlock",
