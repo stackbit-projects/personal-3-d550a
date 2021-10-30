@@ -27,7 +27,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "/Contact",
+                "url": "/contact",
                 "altText": "Contact"
             }
         ],
