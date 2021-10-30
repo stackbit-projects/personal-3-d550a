@@ -48,7 +48,6 @@
         "title": "Personal site",
         "text": "A description of your brand\n",
         "contacts": {
-            "phoneNumber": "lorem-ipsum",
             "email": "lorem-ipsum",
             "emailAltText": "lorem-ipsum",
             "address": "lorem-ipsum",
