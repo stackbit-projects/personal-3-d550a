@@ -46,7 +46,6 @@
         "colors": "colors-a",
         "backgroundWidth": "full",
         "logo": {
-            "caption": "lorem-ipsum",
             "elementId": "",
             "styles": {
                 "self": {
