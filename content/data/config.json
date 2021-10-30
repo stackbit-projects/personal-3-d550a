@@ -46,7 +46,7 @@
         "colors": "colors-a",
         "backgroundWidth": "full",
         "title": "Personal site",
-        "text": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+        "text": "A description of your brand\n",
         "contacts": {
             "phoneNumber": "lorem-ipsum",
             "phoneAltText": "lorem-ipsum",
