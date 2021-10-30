@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "Our offers",
+                "label": "About",
                 "url": "/blog",
                 "altText": ""
             },
