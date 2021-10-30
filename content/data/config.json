@@ -52,7 +52,8 @@
             "emailAltText": "lorem-ipsum",
             "address": "lorem-ipsum",
             "addressAltText": "lorem-ipsum",
-            "elementId": ""
+            "elementId": "",
+            "phoneNumber": "(123)"
         },
         "copyrightText": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
         "primaryLinks": [],
