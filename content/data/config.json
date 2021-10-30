@@ -63,7 +63,8 @@
                 "showIcon": true,
                 "icon": "facebook",
                 "style": "link",
-                "elementId": ""
+                "elementId": "",
+                "label": "Facebook"
             }
         ],
         "legalLinks": [],
