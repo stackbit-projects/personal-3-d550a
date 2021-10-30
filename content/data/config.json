@@ -3,7 +3,7 @@
     "header": {
         "headerVariant": "variant-c",
         "primaryColors": "colors-c",
-        "secondaryColors": "colors-i",
+        "secondaryColors": "colors-c",
         "backgroundWidth": "full",
         "title": "Small Business",
         "isTitleVisible": false,
