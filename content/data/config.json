@@ -63,7 +63,7 @@
                 "url": "#",
                 "showIcon": false,
                 "icon": "facebook",
-                "style": "secondary",
+                "style": "link",
                 "elementId": ""
             }
         ],
