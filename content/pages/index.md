@@ -5,14 +5,6 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    backgroundImage:
-      altText: 
-      caption: 
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
     title: We do fishing differently.
     subtitle: Fresh. Better. Faster
     text: |-
