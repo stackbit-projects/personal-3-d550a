@@ -6,11 +6,11 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: 'Hi, I am John.'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      This is the "about" excerpt. It can be used to provide a paragraph about
+      yourself that people can read on the homepage to get a sense of who you
+      are. There also exists a dedicated about page where you can write more
+      about yourself for those who are interested.
     actions:
       - type: Button
         label: Get Started
