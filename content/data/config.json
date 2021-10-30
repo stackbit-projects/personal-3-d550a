@@ -31,15 +31,7 @@
                 "altText": "Contact"
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Button",
-                "label": "Join us",
-                "url": "/",
-                "altText": "Join us",
-                "style": "secondary"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "narrow",
