@@ -49,7 +49,6 @@
         "text": "A description of your brand\n",
         "contacts": {
             "phoneNumber": "lorem-ipsum",
-            "phoneAltText": "lorem-ipsum",
             "email": "lorem-ipsum",
             "emailAltText": "lorem-ipsum",
             "address": "lorem-ipsum",
