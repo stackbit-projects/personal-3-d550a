@@ -50,7 +50,6 @@
         "contacts": {
             "email": "hello@john.com",
             "emailAltText": "hello@john.com",
-            "addressAltText": "lorem-ipsum",
             "elementId": "",
             "phoneNumber": "(123)-456-7890",
             "phoneAltText": "(123)-456-7890"
