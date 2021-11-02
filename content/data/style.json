@@ -8,5 +8,6 @@
     "complementary": "#e9f6ff",
     "complementaryAlt": "#fffde2",
     "fontFestive": "'Rakkas', cursive",
-    "fontHeadlines": "ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif"
+    "fontHeadlines": "ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+    "fontBody": "ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif"
 }
