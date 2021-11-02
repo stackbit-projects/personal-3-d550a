@@ -77,7 +77,7 @@ sections:
         icon: arrowRight
     feature:
       type: ImageBlock
-      url: /images/fjord-bg.jpeg
+      url: /images/9.jpeg
       altText: Hero section image
     styles:
       self:
