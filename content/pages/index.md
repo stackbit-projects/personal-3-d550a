@@ -23,7 +23,7 @@ sections:
         padding:
           - pt-12
           - pb-36
-        alignItems: flex-end
+        alignItems: flex-start
         justifyContent: flex-start
       quote:
         textAlign: right
