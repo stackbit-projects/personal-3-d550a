@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-c
-    backgroundWidth: full
+    backgroundWidth: inset
     quote: |
       # Hey, I'm Joe. An art director, photographer, & wilderness explorer.
     name: >-
