@@ -41,7 +41,7 @@ sections:
     type: QuoteSection
   - elementId: ''
     variant: variant-a
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: full
     title: What I do
     actions: []
