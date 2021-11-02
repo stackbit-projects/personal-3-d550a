@@ -43,7 +43,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/Happy.jpeg
+      url: /images/Pink.jpeg
   - elementId: ''
     variant: variant-a
     colors: colors-a
