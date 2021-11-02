@@ -24,7 +24,7 @@ sections:
           - pt-12
           - pb-36
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-end
       quote:
         textAlign: right
       name:
