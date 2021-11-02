@@ -5,6 +5,10 @@ module.exports = {
     presets: [require('@stackbit/components/styles/tailwind.default.config.js')],
     theme: {
         extend: {
+            extend: {
+			fontFamily: {
+				festive: ['"Festive"', 'sans-serif']
+			},
             colors: {
                 body: themeStyle.body,
                 headlines: themeStyle.headlines,
