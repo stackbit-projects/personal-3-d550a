@@ -40,7 +40,7 @@ sections:
           - mt-12
       actions:
         justifyContent: flex-start
-    colors: colors-c
+    colors: colors-a
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum
