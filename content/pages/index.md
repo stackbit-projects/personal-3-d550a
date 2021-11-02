@@ -6,7 +6,7 @@ sections:
     colors: colors-c
     backgroundWidth: full
     quote: |
-      # A personal travel journal, exploring the wilderness & mindfulness
+      # A personal travel journal through wilderness, work & our soul
     name: 'I''m Joe, hope you enjoy my journey'
     title: Explorer of life
     backgroundImage:
