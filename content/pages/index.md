@@ -117,15 +117,10 @@ sections:
     type: HeroSection
   - elementId: ''
     variant: variant-a
-    colors: colors-a
+    colors: colors-g
     backgroundWidth: full
-    title: Latest news
-    subtitle: Featured blog posts section example
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
+    title: What I do
+    actions: []
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
