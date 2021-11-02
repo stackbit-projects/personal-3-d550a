@@ -30,7 +30,7 @@ sections:
         alignItems: center
         justifyContent: flex-end
         flexDirection: row
-        borderWidth: 2
+        borderWidth: 1
         borderRadius: none
       title:
         fontWeight: 700
