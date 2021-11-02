@@ -48,7 +48,7 @@ sections:
     type: HeroSection
   - elementId: contact-form
     colors: colors-c
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Let's work together
     text: |
       I look forward to hearing from you.
