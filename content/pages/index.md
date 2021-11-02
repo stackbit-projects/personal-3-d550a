@@ -44,7 +44,9 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: 'This journey starts no where, but it goes somewhere'
+    title: >-
+      This journey starts no where, but for me, that was the best start I could
+      wish for
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
