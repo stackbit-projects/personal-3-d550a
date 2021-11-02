@@ -65,7 +65,7 @@ sections:
       altText: Hero section image
     styles:
       self:
-        height: auto
+        height: screen
         width: full
         margin:
           - mt-0
