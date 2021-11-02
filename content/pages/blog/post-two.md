@@ -1,5 +1,5 @@
 ---
-title: Online Store Management
+title: Storytelling workshops
 layout: PostLayout
 date: '2021-07-01'
 excerpt: >-
