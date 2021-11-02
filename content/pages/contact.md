@@ -2,7 +2,7 @@
 title: This is a new page
 sections:
   - elementId: contact-form
-    colors: colors-g
+    colors: colors-c
     backgroundWidth: full
     title: Get in touch
     text: |
