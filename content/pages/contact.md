@@ -46,46 +46,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: HeroSection
-    title: About me
-    text: >
-      John Doe is a **Senior Art Director from Stockholm** , Sweden. After
-      graduating from The College of Visual Arts with a degree in Communication
-      Design, he worked for three small graphic design shops where he honed his
-      design style and sensibility.
-
-
-      His work has been recognized by Communication Arts, Print, How, ID, IdN,
-      AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA
-      named him a person to watch in 2019.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-0
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-        margin:
-          - mt-12
-      actions:
-        justifyContent: flex-start
-    colors: colors-c
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
