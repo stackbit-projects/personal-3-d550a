@@ -5,20 +5,22 @@ module.exports = {
     presets: [require('@stackbit/components/styles/tailwind.default.config.js')],
     theme: {
         extend: {
-            extend: {
-                colors: {
-                    body: themeStyle.body,
-                    headlines: themeStyle.headlines,
-                    primary: themeStyle.primary,
-                    secondary: themeStyle.secondary,
-                    neutral: themeStyle.neutral,
-                    complementary: themeStyle.complementary,
-                    'complementary-alt': themeStyle.complementaryAlt
-                }
+            colors: {
+                body: themeStyle.body,
+                headlines: themeStyle.headlines,
+                primary: themeStyle.primary,
+                secondary: themeStyle.secondary,
+                neutral: themeStyle.neutral,
+                complementary: themeStyle.complementary,
+                'complementary-alt': themeStyle.complementaryAlt
+            },
+            fontFamily: {
+                festive: themeStyle.fontFestive
             }
-        },
-        variants: {
-            extend: {}
-        },
-        plugins: []
-    };
+        }
+    },
+    variants: {
+        extend: {}
+    },
+    plugins: []
+};
