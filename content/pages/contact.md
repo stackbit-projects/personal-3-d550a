@@ -142,45 +142,5 @@ sections:
         fontStyle: normal
         textAlign: left
     type: QuoteSection
-  - elementId: ''
-    colors: colors-c
-    backgroundWidth: full
-    backgroundImage:
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    text: >
-      As a hobby, John Doe authors the most influential design blog in Sweden
-      with over 100,000 page views a month. He lives in Stockholm with his
-      beautiful wife and two boys.
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-6
-          - pb-32
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
 layout: PageLayout
 ---
