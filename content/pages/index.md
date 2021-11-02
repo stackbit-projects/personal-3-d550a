@@ -87,7 +87,7 @@ sections:
           opacity: 100
       type: ImageBlock
     title: >-
-      This journey starts no where, but for me, that was the best start I could
+      This journey starts no where, but for me, that's the best start we could
       wish for
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
