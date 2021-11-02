@@ -44,7 +44,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/Screen Shot 2021-11-02 at 2.21.36 PM.png
+      url: /images/tattoo guy.jpeg
   - elementId: ''
     variant: variant-a
     colors: colors-a
