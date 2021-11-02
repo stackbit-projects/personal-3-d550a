@@ -6,7 +6,7 @@ sections:
     colors: colors-e
     backgroundWidth: inset
     quote: |
-      # Hey, I'm Joe. An art director, photographer, & wilderness explorer.
+      # Art direction & photography 
     name: >-
       I've been consulting companies for over 10 years helping with content
       creation, storytelling, and team building. I bring my life experiences to
