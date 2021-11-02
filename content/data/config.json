@@ -66,6 +66,15 @@
                 "elementId": "",
                 "label": "Facebook"
             }
+            {
+                "altText": "Twitter",
+                "url": "/",
+                "showIcon": true,
+                "icon": "twitter",
+                "style": "link",
+                "elementId": "",
+                "label": "Twitter"
+            }
         ],
         "legalLinks": [],
         "styles": {
