@@ -40,7 +40,7 @@ sections:
           - mt-12
       actions:
         justifyContent: flex-start
-    colors: colors-g
+    colors: colors-c
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
