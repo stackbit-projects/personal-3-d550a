@@ -6,7 +6,7 @@ sections:
     colors: colors-c
     backgroundWidth: full
     quote: |
-      # Art direction, photo making, video editing and team building
+      # I'm Joe. Art director, photographer, and wilderness explorer. 
     name: >-
       I'm Joe. I've been consulting companies for over 10 years helping with
       content creation, storytelling, and team building. I bring my life
