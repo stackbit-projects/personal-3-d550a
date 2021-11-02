@@ -144,9 +144,9 @@ sections:
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: right
+        textAlign: left
       text:
-        textAlign: right
+        textAlign: left
         margin:
           - mt-5
           - mb-5
