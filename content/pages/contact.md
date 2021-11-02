@@ -145,39 +145,6 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    quote: >
-      The world always seems brighter when you’ve just made something that
-      wasn’t there before.
-    name: NEIL GAIMAN
-    backgroundImage: {}
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-    contentAlignHoriz: left
-    contentAlignVert: bottom
-    type: QuoteSection
-  - elementId: ''
-    colors: colors-c
-    backgroundWidth: full
     backgroundImage:
       elementId: ''
       styles:
