@@ -43,7 +43,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/tattoo guy.jpeg
+      url: /images/photo-1491308056676-205b7c9a7dc1 (1).jpeg
   - elementId: ''
     variant: variant-a
     colors: colors-a
