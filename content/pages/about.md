@@ -49,15 +49,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    feature:
-      url: lorem-ipsum
-      autoplay: false
-      loop: false
-      muted: false
-      controls: false
-      elementId: ''
-      type: VideoBlock
-      thumbnailUrl: /images/tattoo guy.jpeg
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
