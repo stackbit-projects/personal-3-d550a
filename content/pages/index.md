@@ -149,4 +149,43 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   file:///home/codeeditor/workspace/code/content/pages/index.md
+  - elementId: ''
+    variant: variant-c
+    colors: colors-g
+    backgroundWidth: full
+    title: Latest blog posts
+    actions:
+      - type: Button
+        label: More
+        url: /blog
+        style: secondary
+        altText: More
+        showIcon: false
+    posts:
+      - content/pages/blog/fox-village-in-japan.md
+      - content/pages/blog/basic-rules-for-walking-in-the-mountains.md
+      - content/pages/blog/nature.md
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: FeaturedPostsSection
 ---
