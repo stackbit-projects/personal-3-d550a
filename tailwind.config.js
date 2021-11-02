@@ -17,9 +17,6 @@ module.exports = {
                 neutral: themeStyle.neutral,
                 complementary: themeStyle.complementary,
                 'complementary-alt': themeStyle.complementaryAlt
-            },
-            fontFamily: {
-                festive: themeStyle.fontFestive
             }
         }
     },
