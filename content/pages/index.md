@@ -7,7 +7,7 @@ sections:
     backgroundWidth: full
     quote: |
       # A personal travel journal, exploring the wilderness & mindfulness
-    name: Johnna Doe
+    name: 'I''m Joe, hope you enjoy my journey'
     title: Product Marketing Manager at Acme
     backgroundImage:
       url: /images/4.jpeg
