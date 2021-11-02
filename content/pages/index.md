@@ -90,7 +90,7 @@ sections:
           - pt-12
           - pb-12
         alignItems: center
-        justifyContent: flex-start
+        justifyContent: flex-end
         flexDirection: row-reverse
         borderColor: border-complementary-alt
         borderWidth: 5
