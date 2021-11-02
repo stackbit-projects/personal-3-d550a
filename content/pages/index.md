@@ -61,6 +61,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/4.jpeg
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
