@@ -50,7 +50,7 @@ sections:
         textAlign: left
         margin:
           - mb-10
-          padings:
+        padding:
           - mb-10
       actions:
         justifyContent: flex-start
