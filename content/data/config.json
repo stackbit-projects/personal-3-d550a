@@ -3,7 +3,7 @@
     "header": {
         "headerVariant": "variant-d",
         "primaryColors": "colors-c",
-        "secondaryColors": "colors-c",
+        "secondaryColors": "colors-a",
         "backgroundWidth": "full",
         "title": "Personal",
         "isTitleVisible": true,
