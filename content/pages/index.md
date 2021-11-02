@@ -11,12 +11,7 @@ sections:
       yourself that people can read on the homepage to get a sense of who you
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        style: secondary
-        elementId: hero-main-button
+    actions: []
     styles:
       self:
         height: screen
