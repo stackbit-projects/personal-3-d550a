@@ -5,41 +5,6 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    quote: |-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
-    name: Johnna Doe
-    title: Product Marketing Manager at Acme
-    backgroundImage:
-      altText: Product Marketing Manager Quote
-    styles:
-      self:
-        height: screen
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-36
-        alignItems: flex-start
-        justifyContent: flex-end
-      quote:
-        textAlign: right
-      name:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: right
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: right
-    contentAlignHoriz: right
-    contentAlignVert: top
-    type: QuoteSection
-  - elementId: ''
-    colors: colors-c
-    backgroundWidth: full
     title: 'Hi, I am John.'
     text: >
       This is the "about" excerpt. It can be used to provide a paragraph about
