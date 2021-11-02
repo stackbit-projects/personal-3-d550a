@@ -74,7 +74,7 @@ sections:
           - pt-12
           - pb-12
         alignItems: flex-start
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: row-reverse
         borderColor: border-complementary-alt
         borderWidth: 5
