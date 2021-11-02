@@ -43,7 +43,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/Pink.jpeg
+      url: /images/photo-1580436541340-36b8d0c60bae.jpeg
   - elementId: ''
     variant: variant-a
     colors: colors-a
