@@ -52,36 +52,32 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-f
+    colors: colors-g
     backgroundWidth: full
     backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
       elementId: ''
       styles:
         self:
           opacity: 100
       type: ImageBlock
-    title: All about the art of selling fish
-    subtitle: Fresh. Better. Faster
-    text: >-
+    title: My passion is...
+    text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Get Started
+        label: Lear more
         url: /
         style: primary
         elementId: hero-main-button
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
+        altText: Lear more
+        showIcon: true
+        icon: arrowRight
     feature:
       type: ImageBlock
-      url: /images/hero-image.png
+      url: /images/9.jpeg
       altText: Hero section image
     styles:
       self:
@@ -95,17 +91,25 @@ sections:
           - pb-12
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: row-reverse
+        borderColor: border-complementary-alt
+        borderWidth: 5
+        borderRadius: none
+        borderStyle: none
       title:
         fontWeight: 700
         fontStyle: normal
         textAlign: left
+        margin:
+          - mt-12
       subtitle:
         fontWeight: 400
         fontStyle: normal
         textAlign: left
       text:
         textAlign: left
+        margin:
+          - mt-5
       actions:
         justifyContent: flex-start
     type: HeroSection
