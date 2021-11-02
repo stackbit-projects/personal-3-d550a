@@ -8,7 +8,7 @@ sections:
     quote: |
       # A personal travel journal, exploring the wilderness & mindfulness
     name: 'I''m Joe, hope you enjoy my journey'
-    title: Product Marketing Manager at Acme
+    title: Explorer of life
     backgroundImage:
       url: /images/4.jpeg
       altText: Product Marketing Manager Quote
