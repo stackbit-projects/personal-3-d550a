@@ -6,22 +6,22 @@ module.exports = {
     theme: {
         extend: {
             extend: {
-			fontFamily: {
-				festive: ['"Unna"', 'serif']
-			},
-            colors: {
-                body: themeStyle.body,
-                headlines: themeStyle.headlines,
-                primary: themeStyle.primary,
-                secondary: themeStyle.secondary,
-                neutral: themeStyle.neutral,
-                complementary: themeStyle.complementary,
-                'complementary-alt': themeStyle.complementaryAlt
+                fontFamily: {
+                    festive: ['"Unna"', 'serif']
+                },
+                colors: {
+                    body: themeStyle.body,
+                    headlines: themeStyle.headlines,
+                    primary: themeStyle.primary,
+                    secondary: themeStyle.secondary,
+                    neutral: themeStyle.neutral,
+                    complementary: themeStyle.complementary,
+                    'complementary-alt': themeStyle.complementaryAlt
+                }
             }
-        }
-    },
-    variants: {
-        extend: {}
-    },
-    plugins: []
-};
+        },
+        variants: {
+            extend: {}
+        },
+        plugins: []
+    };
