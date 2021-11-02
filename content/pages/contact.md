@@ -83,7 +83,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/Fish guy.png
+      url: /images/photo-1491308056676-205b7c9a7dc1 (1).jpeg
       altText: Contact form image
     styles:
       self:
