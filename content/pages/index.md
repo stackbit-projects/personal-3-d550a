@@ -12,7 +12,7 @@ sections:
       content creation, story telling and team building. I bring people together
       through my life experiences, and bridge between the life in side the
       office to the outside.
-    title: Explorer of life
+    title: I'm an explorer of life
     backgroundImage:
       url: /images/4.jpeg
       altText: Product Marketing Manager Quote
