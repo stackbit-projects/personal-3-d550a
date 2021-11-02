@@ -119,6 +119,7 @@ sections:
     title: Product Marketing Manager at Acme
     backgroundImage:
       altText: Product Marketing Manager Quote
+      url: /images/Pink.jpeg
     styles:
       self:
         height: auto
