@@ -83,7 +83,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/fjord-bg.jpeg
+      url: /images/Fisherwoman.jpeg
       altText: Contact form image
     styles:
       self:
