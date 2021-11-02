@@ -27,7 +27,7 @@ sections:
         padding:
           - pt-20
           - pb-0
-        alignItems: flex-end
+        alignItems: center
         justifyContent: center
         flexDirection: row
       title:
