@@ -8,10 +8,10 @@ sections:
     quote: |
       # Art direction & photography 
     name: >-
-      I've been consulting companies for over 10 years helping with content
-      creation, storytelling, and team building. I bring my life experiences to
-      work every day, my lens is what makes my contribution to your brand,
-      unique.
+      I'm Joe. I've been consulting companies for over 10 years helping with
+      content creation, storytelling, and team building. I bring my life
+      experiences to work every day, my lens is what makes my contribution to
+      your brand, unique.
     styles:
       self:
         height: screen
