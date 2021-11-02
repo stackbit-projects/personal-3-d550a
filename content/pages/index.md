@@ -31,6 +31,7 @@ sections:
         justifyContent: flex-end
         flexDirection: row
         borderWidth: 3
+        borderRadius: none
       title:
         fontWeight: 700
         fontStyle: normal
