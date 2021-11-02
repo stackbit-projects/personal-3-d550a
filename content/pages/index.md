@@ -149,20 +149,21 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - elementId: ''
-    variant: variant-a
-    colors: colors-a
+    variant: variant-c
+    colors: colors-g
     backgroundWidth: full
-    title: Latest news
-    subtitle: Featured blog posts section example
+    title: Latest blog posts
     actions:
       - type: Button
-        label: View all
-        url: /
-        style: primary
+        label: More
+        url: /blog
+        style: secondary
+        altText: More
+        showIcon: false
     posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
+      - content/pages/blog/fox-village-in-japan.md
+      - content/pages/blog/basic-rules-for-walking-in-the-mountains.md
+      - content/pages/blog/nature.md
     styles:
       self:
         height: auto
