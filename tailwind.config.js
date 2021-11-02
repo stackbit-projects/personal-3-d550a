@@ -7,7 +7,7 @@ module.exports = {
         extend: {
             extend: {
 			fontFamily: {
-				festive: [''Unna', serif;]
+				festive: [Unna', serif;]
 			},
             colors: {
                 body: themeStyle.body,
