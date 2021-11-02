@@ -19,12 +19,7 @@ sections:
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        style: primary
-        elementId: hero-main-button
+    actions: []
     styles:
       self:
         height: auto
