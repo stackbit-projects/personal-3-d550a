@@ -5,9 +5,8 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    quote: >
-      # Hey, I'm Joe. &#xA;An art director, photographer, &#xA;& wilderness
-      explorer.
+    quote: |
+      # Hey, I'm Joe. An art director, photographer, & wilderness explorer.
     name: >-
       I've been consulting companies for over 10 years helping with content
       creation, storytelling, and team building. I bring my life experiences to
