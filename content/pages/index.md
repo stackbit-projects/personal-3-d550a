@@ -44,7 +44,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/fjord-bg.jpeg
+      url: /images/Screen Shot 2021-11-02 at 2.21.36 PM.png
   - elementId: ''
     variant: variant-a
     colors: colors-a
