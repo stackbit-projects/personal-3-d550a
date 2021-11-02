@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: FeaturedPostsSection
     variant: variant-a
-    colors: colors-g
+    colors: colors-c
     backgroundWidth: full
     title: Blog
     posts:
