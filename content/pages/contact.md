@@ -72,7 +72,7 @@ sections:
     type: ContactSection
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-f
+    colors: colors-c
     backgroundWidth: full
     actions: []
     styles:
