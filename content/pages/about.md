@@ -75,7 +75,7 @@ sections:
     contentAlignVert: bottom
     type: QuoteSection
   - elementId: ''
-    colors: colors-g
+    colors: colors-c
     backgroundWidth: full
     backgroundImage:
       elementId: ''
