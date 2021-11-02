@@ -30,6 +30,7 @@ sections:
         alignItems: center
         justifyContent: flex-end
         flexDirection: row
+        borderWidth: 3
       title:
         fontWeight: 700
         fontStyle: normal
