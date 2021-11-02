@@ -57,7 +57,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/9.jpeg
+      url: /images/photo-1491308056676-205b7c9a7dc1 (1).jpeg
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
