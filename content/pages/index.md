@@ -26,7 +26,8 @@ sections:
         alignItems: flex-start
         justifyContent: flex-end
       quote:
-        textAlign: left
+        textAlign: right
+        
       name:
         fontWeight: 400
         fontStyle: normal
