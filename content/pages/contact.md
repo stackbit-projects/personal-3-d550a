@@ -86,7 +86,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/Fisherwoman.jpeg
+      url: /images/Screen Shot 2021-11-02 at 3.34.37 PM.png
       altText: Contact form image
     styles:
       self:
