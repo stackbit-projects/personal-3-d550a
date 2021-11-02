@@ -106,7 +106,7 @@ sections:
         icon: arrowRight
     feature:
       type: ImageBlock
-      url: /images/9.jpeg
+      url: /images/Screen Shot 2021-11-02 at 2.21.36 PM.png
       altText: Hero section image
     styles:
       self:
