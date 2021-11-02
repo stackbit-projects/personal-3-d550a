@@ -28,7 +28,7 @@ sections:
           - pt-20
           - pb-0
         alignItems: center
-        justifyContent: flex-start
+        justifyContent: center
         flexDirection: row
       title:
         fontWeight: 700
