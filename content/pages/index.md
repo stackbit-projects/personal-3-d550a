@@ -33,7 +33,7 @@ sections:
         borderWidth: 0
         borderRadius: none
       title:
-        fontWeight: 700
+        fontWeight: 400
         fontStyle: normal
         textAlign: left
         margin:
