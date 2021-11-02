@@ -59,7 +59,7 @@ sections:
       type: ImageBlock
       url: /images/Screen Shot 2021-11-02 at 2.21.36 PM.png
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: full
     quote: >
       The world always seems brighter when you’ve just made something that
