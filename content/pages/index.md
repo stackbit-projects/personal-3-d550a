@@ -150,7 +150,7 @@ sections:
     type: FeaturedPostsSection
   - elementId: ''
     variant: variant-c
-    colors: colors-g
+    colors: colors-c
     backgroundWidth: full
     title: Latest blog posts
     actions:
