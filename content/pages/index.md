@@ -44,6 +44,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/fjord-bg.jpeg
   - elementId: ''
     variant: variant-a
     colors: colors-a
