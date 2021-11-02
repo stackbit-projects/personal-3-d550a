@@ -44,7 +44,7 @@ sections:
   - elementId: contact-form
     colors: colors-c
     backgroundWidth: full
-    title: Contact us
+    title: Let's work together
     text: We look forward to hearing from you.
     form:
       type: FormBlock
