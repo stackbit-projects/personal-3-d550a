@@ -54,7 +54,7 @@
             "phoneNumber": "(123)-456-7890",
             "phoneAltText": "(123)-456-7890"
         },
-        "copyrightText": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+        "copyrightText": "Copyright text goes here\n",
         "primaryLinks": [],
         "socialLinks": [
             {
