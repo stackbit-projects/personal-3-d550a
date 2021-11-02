@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: inset
     quote: |
       # Hey, I'm Joe. An art director, photographer, & wilderness explorer.
