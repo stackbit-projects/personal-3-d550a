@@ -13,9 +13,6 @@ sections:
       through my life experiences, and bridge between the life in side the
       office to the outside.
     title: I'm an explorer of life
-    backgroundImage:
-      url: /images/4.jpeg
-      altText: Product Marketing Manager Quote
     styles:
       self:
         height: screen
