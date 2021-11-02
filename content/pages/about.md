@@ -57,7 +57,7 @@ sections:
       controls: false
       elementId: ''
       type: VideoBlock
-      thumbnailUrl: /images/Ghost.gif
+      thumbnailUrl: /images/tattoo guy.jpeg
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
