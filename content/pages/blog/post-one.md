@@ -1,5 +1,5 @@
 ---
-title: Technical content
+title: Team building
 layout: PostLayout
 date: '2021-06-28'
 excerpt: >-
