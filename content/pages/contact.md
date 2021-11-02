@@ -10,7 +10,7 @@ sections:
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:
-      url: /images/photo-1559666126-84f389727b9a.jpeg
+      url: /images/Fisherwoman.jpeg
       altText: Product Marketing Manager Quote
     styles:
       self:
