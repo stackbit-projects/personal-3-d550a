@@ -12,7 +12,6 @@ sections:
       content creation, storytelling, and team building. I bring my life
       experiences to work every day, my lens is what makes my contribution to
       your brand, unique. 
-    title: I'm an explorer of life
     styles:
       self:
         height: screen
