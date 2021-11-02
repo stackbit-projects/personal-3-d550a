@@ -7,11 +7,7 @@ sections:
     backgroundWidth: inset
     quote: |
       # Art direction & photography 
-    name: >-
-      I'm Joe. I've been consulting companies for over 10 years helping with
-      content creation, storytelling, and team building. I bring my life
-      experiences to work every day, my lens is what makes my contribution to
-      your brand, unique.
+    name: I'm Joe. I've been I help brand shine through my lens
     styles:
       self:
         height: screen
