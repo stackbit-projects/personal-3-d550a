@@ -49,7 +49,7 @@ sections:
   - elementId: contact-form
     colors: colors-c
     backgroundWidth: inset
-    title: Let's work together
+    title: Tell me about your needs
     text: |
       I look forward to hearing from you.
     form:
