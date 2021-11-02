@@ -7,7 +7,11 @@ sections:
     backgroundWidth: full
     quote: |
       # A personal travel journal through wilderness, work & our soul
-    name: 'I''m Joe, hope you enjoy my journey'
+    name: >-
+      I'm Joe. I've been consulting companies for over 10 years helping with
+      content creation, story telling and team building. I bring people together
+      through my life experiences, and bridge between the life in side the
+      office to the outside.
     title: Explorer of life
     backgroundImage:
       url: /images/4.jpeg
