@@ -36,6 +36,14 @@ sections:
         fontStyle: normal
         textAlign: left
     type: QuoteSection
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
   - elementId: ''
     variant: variant-a
     colors: colors-a
