@@ -102,21 +102,15 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    variant: variant-c
+    variant: variant-a
     colors: colors-c
     backgroundWidth: full
-    title: Latest blog posts
-    actions:
-      - type: Button
-        label: More
-        url: /blog
-        style: secondary
-        altText: More
-        showIcon: false
+    title: What I do
+    actions: []
     posts:
-      - content/pages/blog/fox-village-in-japan.md
-      - content/pages/blog/basic-rules-for-walking-in-the-mountains.md
-      - content/pages/blog/nature.md
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
     styles:
       self:
         height: auto
@@ -141,15 +135,21 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - elementId: ''
-    variant: variant-a
+    variant: variant-c
     colors: colors-c
     backgroundWidth: full
-    title: What I do
-    actions: []
+    title: Latest blog posts
+    actions:
+      - type: Button
+        label: More
+        url: /blog
+        style: secondary
+        altText: More
+        showIcon: false
     posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
+      - content/pages/blog/fox-village-in-japan.md
+      - content/pages/blog/basic-rules-for-walking-in-the-mountains.md
+      - content/pages/blog/nature.md
     styles:
       self:
         height: auto
