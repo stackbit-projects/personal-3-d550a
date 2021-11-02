@@ -140,7 +140,7 @@ sections:
     type: HeroSection
   - elementId: ''
     variant: variant-c
-    colors: colors-d
+    colors: colors-f
     backgroundWidth: full
     title: Latest blog posts
     actions:
