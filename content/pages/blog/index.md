@@ -2,46 +2,15 @@
 title: Blog
 layout: PageLayout
 sections:
-  - elementId: ''
-    colors: colors-b
-    backgroundWidth: full
-    quote: |
-      # Experience it for yourself
-    backgroundImage:
-      url: /images/BG.png
-      altText: Product Marketing Manager Quote
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-36
-          - pb-12
-        alignItems: flex-start
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-    type: QuoteSection
   - type: FeaturedPostsSection
     variant: variant-a
-    colors: colors-a
+    colors: colors-g
     backgroundWidth: full
-    title: Current offers
+    title: Blog
     posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
+      - content/pages/blog/fox-village-in-japan.md
+      - content/pages/blog/basic-rules-for-walking-in-the-mountains.md
+      - content/pages/blog/nature.md
     styles:
       self:
         height: auto
@@ -64,4 +33,5 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+    subtitle: I like writing about things that inspire me
 ---
