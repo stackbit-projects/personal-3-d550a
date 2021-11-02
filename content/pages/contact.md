@@ -43,6 +43,7 @@ sections:
         textAlign: center
         margin:
           - mt-12
+          - mb-12
       text:
         textAlign: center
       actions:
