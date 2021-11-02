@@ -117,7 +117,7 @@ sections:
     type: HeroSection
   - elementId: ''
     variant: variant-a
-    colors: colors-g
+    colors: colors-c
     backgroundWidth: full
     title: What I do
     actions: []
