@@ -27,7 +27,7 @@ sections:
         justifyContent: flex-end
       quote:
         textAlign: right
-        
+      
       name:
         fontWeight: 400
         fontStyle: normal
