@@ -44,7 +44,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: What I do
+    title: Services
     actions: []
     posts:
       - content/pages/blog/post-three.md
