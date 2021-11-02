@@ -91,7 +91,7 @@ sections:
           - pb-12
         alignItems: flex-end
         justifyContent: flex-end
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         borderColor: border-complementary-alt
         borderWidth: 5
         borderRadius: none
