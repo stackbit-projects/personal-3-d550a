@@ -6,7 +6,6 @@ module.exports = {
     theme: {
         extend: {
             extend: {
-                
                 colors: {
                     body: themeStyle.body,
                     headlines: themeStyle.headlines,
