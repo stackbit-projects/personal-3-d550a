@@ -9,7 +9,7 @@ sections:
       # Art direction, photo making, video editing and team building
     name: >-
       I'm Joe. I've been consulting companies for over 10 years helping with
-      content creation, story telling and team building. I bring my life
+      content creation, storytelling and team building. I bring my life
       experiences to work everyday, my lens is what makes my contribution to
       your brand, unique. 
     title: I'm an explorer of life
