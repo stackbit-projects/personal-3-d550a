@@ -17,7 +17,7 @@
                         "label":"Nome"
                         }
                     ],
-                },
+                ]},
                 "styles": {
                     "self": {
                         "height": "auto",
