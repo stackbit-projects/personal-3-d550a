@@ -126,7 +126,7 @@
             "label": "Contact us light - With image (left)",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "title": "Contact us",
+                "title": "Send me a note",
                 "text": "We look forward to hearing from you.",
                 "colors": "colors-a",
                 "elementId": "contact-form",
