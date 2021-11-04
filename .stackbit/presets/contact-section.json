@@ -16,8 +16,7 @@
                         "label":"Nome"
                         }
                     ],
-                }
-                 
+                },
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created", 
                 "submitLabel": "Blah",
