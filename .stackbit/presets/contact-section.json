@@ -14,7 +14,7 @@
                         "type": "TextFormControl",
                         "name":"text",
                         "label":"text"
-                        },
+                        }
                     ],
                     "action": "/.netlify/functions/submission_created"
                 }, 
