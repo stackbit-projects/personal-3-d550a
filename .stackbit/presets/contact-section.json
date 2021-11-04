@@ -15,8 +15,8 @@
                         "name":"text",
                         "label":"text"
                         },
-                    "action": "/.netlify/functions/submission_created",
                     ],
+                    "action": "/.netlify/functions/submission_created",
                 }, 
                 "styles": {
                     "self": {
