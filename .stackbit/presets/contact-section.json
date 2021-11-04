@@ -16,8 +16,7 @@
                         "label":"text"
                         }
                     ],
-                },
-                "action": "/.netlify/functions/submission_created", 
+                }, 
                 "styles": {
                     "self": {
                         "height": "auto",
