@@ -12,7 +12,7 @@
                 "action": "/.netlify/functions/submission_created",
                 "form": {
                     "submitLabel": "Blah"
-                }
+                },
                 "styles": {
                     "self": {
                         "height": "auto",
