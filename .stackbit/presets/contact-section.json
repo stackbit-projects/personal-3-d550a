@@ -9,6 +9,9 @@
                 "text": "I look forward to hearing from you.",
                 "colors": "colors-c",
                 "elementId": "contact-form",
+                "fields":{
+
+                },
                 "action": "/.netlify/functions/submission_created", 
                 "submitLabel": "Blah",
                 "styles": {
