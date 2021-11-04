@@ -4,10 +4,19 @@
         {
             "label": "Contact us dark - With image (right)",
             "thumbnail": "images/placeholder.png",
+           
             "data": {
                 "title": "Send me a note Test",
                 "text": "I look forward to hearing from you.",
                 "colors": "colors-c",
+                "form":{
+                    "fields":[{
+                        "type": "TextFormControl",
+                        "name":"Nome",
+                        "label":"Nome"
+                        }
+                    ],
+                },
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created", 
                 "submitLabel": "Blah",
