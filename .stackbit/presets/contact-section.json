@@ -36,7 +36,7 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "Send me a note",
-                "text": "We look forward to hearing from you.",
+                "text": "I look forward to hearing from you.",
                 "colors": "colors-c",
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created",
