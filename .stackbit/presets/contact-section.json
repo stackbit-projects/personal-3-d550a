@@ -65,7 +65,7 @@
             "label": "Contact us dark - No image",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "title": "Contact us",
+                "title": "Send me a note",
                 "text": "We look forward to hearing from you.",
                 "colors": "colors-c",
                 "feature": null,
