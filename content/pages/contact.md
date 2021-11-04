@@ -74,7 +74,7 @@ sections:
           isRequired: true
           width: 1/2
         - type: TextFormControl
-          name: 'Short '
+          name: sho
           label: Home address
           placeholder: Your home address
           isRequired: true
