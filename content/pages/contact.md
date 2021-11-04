@@ -76,7 +76,7 @@ sections:
         - type: TextFormControl
           name: short-note
           label: Short Note
-          placeholder: Your home address
+          placeholder: ' How can I help? '
           isRequired: true
           width: full
         - type: CheckboxFormControl
