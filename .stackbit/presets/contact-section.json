@@ -10,8 +10,7 @@
                 "colors": "colors-c",
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created",
-                "form": {
-                          submitLabel: Send Message
+                "form": {                          submitLabel: Send Message
 
                 }
                 "styles": {
