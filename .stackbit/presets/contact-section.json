@@ -13,7 +13,7 @@
                     "type": "TextFormControl",
                     "name":"Nome",
                     "label":"Nome"
-                }
+                    }
                 ],
                 "action": "/.netlify/functions/submission_created", 
                 "submitLabel": "Blah",
