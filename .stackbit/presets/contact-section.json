@@ -11,7 +11,7 @@
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created",
                 "form": {
-                    
+                    "fields"
                 }
                 "styles": {
                     "self": {
