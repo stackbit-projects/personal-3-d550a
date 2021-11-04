@@ -10,12 +10,13 @@
                 "colors": "colors-c",
                 "elementId": "contact-form",
                 "form":{
-                "fields":[{
-                    "type": "TextFormControl",
-                    "name":"text",
-                    "label":"text"
-                    }
-                ],
+                    "fields":[{
+                        "type": "TextFormControl",
+                        "name":"text",
+                        "label":"text"
+                        }
+                    ],
+                },
                 "action": "/.netlify/functions/submission_created", 
                 "styles": {
                     "self": {
