@@ -17,6 +17,7 @@
                         }
                     ],
                     "action": "/.netlify/functions/submission_created"
+                    "submitLabel"
                 }, 
                 "styles": {
                     "self": {
