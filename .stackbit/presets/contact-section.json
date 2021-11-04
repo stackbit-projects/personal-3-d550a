@@ -157,7 +157,7 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "Send me a note",
-                "text": "We look forward to hearing from you.",
+                "text": "I look forward to hearing from you.",
                 "colors": "colors-a",
                 "feature": null,
                 "elementId": "contact-form",
