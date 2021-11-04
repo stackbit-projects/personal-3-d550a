@@ -10,7 +10,9 @@
                 "colors": "colors-c",
                 "elementId": "contact-form",
                 "fields":[
-                    
+                    {
+                        
+                    }
                 ],
                 "action": "/.netlify/functions/submission_created", 
                 "styles": {
