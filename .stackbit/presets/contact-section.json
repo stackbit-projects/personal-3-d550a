@@ -4,12 +4,7 @@
         {
             "label": "Contact us dark - With image (right)",
             "thumbnail": "images/placeholder.png",
-            "fields":[{
-                "type": "TextFormControl",
-                "name":"Nome",
-                "label":"Nome"
-                }
-            ],
+           
             "data": {
                 "title": "Send me a note Test",
                 "text": "I look forward to hearing from you.",
