@@ -17,7 +17,7 @@
                         }
                     ],
                     "action": "/.netlify/functions/submission_created"
-                    "submitLabel"
+                    "submitLabel": "foobar"
                 }, 
                 "styles": {
                     "self": {
