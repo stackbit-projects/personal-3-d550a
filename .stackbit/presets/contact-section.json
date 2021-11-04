@@ -14,7 +14,7 @@
                         "type": "TextFormControl",
                         "name":"Nome",
                         "label":"Nome"
-                        }
+                    }
                     ],
                 },
                 "elementId": "contact-form",
