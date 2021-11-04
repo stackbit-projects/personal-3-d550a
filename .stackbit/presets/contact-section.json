@@ -4,6 +4,7 @@
         {
             "label": "Contact us dark - With image (right)",
             "thumbnail": "images/placeholder.png",
+            "submitLabel": "Blah",
             "data": {
                 "title": "Send me a note Test",
                 "text": "I look forward to hearing from you.",
