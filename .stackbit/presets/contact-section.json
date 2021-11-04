@@ -11,7 +11,8 @@
                 "elementId": "contact-form",
                 "fields":[
                     {
-                        
+                        - "type": "TextFormControl",
+                            
                     }
                 ],
                 "action": "/.netlify/functions/submission_created", 
