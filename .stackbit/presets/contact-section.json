@@ -10,8 +10,8 @@
                 "colors": "colors-c",
                 "elementId": "contact-form",
                 "fields":[{
-                        -
-                    }
+                    - "type"
+                }
                 ],
                 "action": "/.netlify/functions/submission_created", 
                 "submitLabel": "Blah",
