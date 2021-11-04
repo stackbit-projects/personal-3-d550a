@@ -9,7 +9,9 @@
                 "title": "Send me a note Test",
                 "text": "I look forward to hearing from you.",
                 "colors": "colors-c",
-                "form":
+                "form":{
+                    
+                }
                  "fields":[{
                 "type": "TextFormControl",
                 "name":"Nome",
