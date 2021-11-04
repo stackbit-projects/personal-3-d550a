@@ -41,7 +41,7 @@ sections:
       type: ImageBlock
       url: /images/photo-1491308056676-205b7c9a7dc1 (1).jpeg
   - elementId: contact-form
-    colors: colors-e
+    colors: colors-c
     backgroundWidth: full
     title: Contact us
     text: We look forward to hearing from you.
