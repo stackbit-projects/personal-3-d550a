@@ -75,7 +75,7 @@ sections:
           width: 1/2
         - type: TextFormControl
           name: short-note
-          label: Home address
+          label: Short Note
           placeholder: Your home address
           isRequired: true
           width: full
