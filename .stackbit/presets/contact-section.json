@@ -11,7 +11,7 @@
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created",
                 "form": {
-                    "submitLabel": "Send Message"
+                    "submitLabel": "Blah"
                 }
                 "styles": {
                     "self": {
