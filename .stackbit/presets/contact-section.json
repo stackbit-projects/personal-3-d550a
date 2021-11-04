@@ -10,7 +10,7 @@
                 "colors": "colors-c",
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created",
-                "form"
+                "form": 
                 "styles": {
                     "self": {
                         "height": "auto",
