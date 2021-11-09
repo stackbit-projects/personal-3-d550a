@@ -58,7 +58,7 @@ sections:
       fields:
         - type: TextFormControl
           name: Name
-          label: text
+          label: Name
       action: /.netlify/functions/submission_created
       submitLabel: foobar
     feature:
