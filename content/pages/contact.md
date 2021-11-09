@@ -61,7 +61,7 @@ sections:
           label: Name
           placeholder: Your name
         - name: Message
-          label: Description
+          label: Message
           placeholder: Please describe
           isRequired: false
           width: full
