@@ -62,7 +62,7 @@ sections:
           placeholder: Your name
         - name: Message
           label: Message
-          placeholder: Please describe
+          placeholder: Your message
           isRequired: false
           width: full
           type: TextareaFormControl
