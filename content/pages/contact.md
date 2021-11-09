@@ -49,38 +49,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: contact-form
-    colors: colors-c
-    backgroundWidth: full
-    title: Send me a note Test
-    text: I look forward to hearing from you.
-    form:
-      submitLabel: Blah
-    feature:
-      type: ImageBlock
-      url: /images/contact.png
-      altText: Contact form image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-    action: /.netlify/functions/submission_created
-    type: ContactSection
   - elementId: ''
     variant: variant-a
     colors: colors-a
