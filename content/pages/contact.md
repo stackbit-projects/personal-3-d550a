@@ -62,7 +62,7 @@ sections:
           placeholder: Your name
         - name: Email
           label: Email
-          placeholder: Your name
+          placeholder: Your email
           isRequired: false
           width: full
           type: EmailFormControl
