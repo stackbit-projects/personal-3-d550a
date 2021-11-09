@@ -60,18 +60,18 @@ sections:
           name: Name
           label: Name
           placeholder: Your name
-        - name: Message
-          label: Message
-          placeholder: Your message
-          isRequired: false
-          width: full
-          type: TextareaFormControl
         - name: lorem-ipsum
           label: Name
           placeholder: Your name
           isRequired: false
           width: full
           type: EmailFormControl
+        - name: Message
+          label: Message
+          placeholder: Your message
+          isRequired: false
+          width: full
+          type: TextareaFormControl
       action: /.netlify/functions/submission_created
       submitLabel: Send message
     feature:
