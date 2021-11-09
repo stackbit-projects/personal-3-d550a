@@ -61,7 +61,7 @@ sections:
           label: Name
           placeholder: Your name
         - name: Email
-          label: Name
+          label: Email
           placeholder: Your name
           isRequired: false
           width: full
