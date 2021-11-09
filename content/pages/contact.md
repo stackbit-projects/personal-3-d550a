@@ -52,7 +52,7 @@ sections:
   - elementId: contact-form
     colors: colors-c
     backgroundWidth: full
-    title: Send me a note Test
+    title: Send me a note
     text: I look forward to hearing from you.
     form:
       fields:
