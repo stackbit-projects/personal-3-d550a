@@ -61,7 +61,7 @@ sections:
           label: Name
           placeholder: Your name
       action: /.netlify/functions/submission_created
-      submitLabel: foobar
+      submitLabel: Send message
     feature:
       type: ImageBlock
       url: /images/photo-1491308056676-205b7c9a7dc1 (1).jpeg
