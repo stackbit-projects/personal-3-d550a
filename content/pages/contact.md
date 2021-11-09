@@ -60,7 +60,7 @@ sections:
           name: Name
           label: Name
           placeholder: Your name
-        - name: lorem-ipsum
+        - name: Message
           label: Description
           placeholder: Please describe
           isRequired: false
