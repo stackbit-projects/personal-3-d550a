@@ -1,11 +1,13 @@
 {
     "type": "ThemeStyle",
     "body": "#000000",
-    "headlines": "#ff3064",
-    "primary": "#ff3064",
+    "headlines": "#000000",
+    "primary": "#ececec",
     "secondary": "#ffffff",
-    "neutral": "#000000",
-    "complementary": "#e9f6ff",
+    "neutral": "#2b2b2b",
+    "complementary": "#ffbafe",
     "complementaryAlt": "#fffde2",
-    "fontFestive": "'Rakkas', cursive"
+    "fontFestive": "'Unna', serif",
+    "fontHeadlines": "ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+    "fontBody": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
 }
